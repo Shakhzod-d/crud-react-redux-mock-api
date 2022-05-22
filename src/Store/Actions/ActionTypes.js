@@ -1,0 +1,5 @@
+export const FETCH_ALL_TODOS = "FETCH_ALL_TODOS";
+export const POST_SINGLE_USER = "POST_SINGLE_USER";
+
+export const ADD_NEW_USER = "ADD_NEW_USER";
+export const DELETE_SINGLE_USER = "DELETE_SINGLE_USER";
